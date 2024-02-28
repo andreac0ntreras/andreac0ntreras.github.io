@@ -2,23 +2,24 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Andrea Contreras
+Andrea Contreras
+Computer Science and Software Engineering
 
 Show Contacts
 
 Email
-richard@example.com
+andrea.contreras.fernandez90@gmail.com
 
 Phone
-+1 (213) 352-2795
++1 (678) 362-6810
 
 Birthday
-June 23, 1982
+July 26, 2004
 
 Location
-Sacramento, California, USA
+Gainesville, Florida, USA
+Pensacola, Florida, USA
 
 # navbar
 
@@ -32,9 +33,9 @@ Contact
 
 About me
 
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+I am a second-year Computer Science and Statistics student at the University of Florida. I am proficient in programming languages including Python, C++, R and Matlab. I am extremely passionate about health and nutrition and love applying my technical knowledge towards making nutrition information more accessible and fitness more enjoyable. 
 
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
+In my experience as a student, I have developed my analytical, computational, and programming skills through various projects and courses. In my free time, I love to run and am a part of the Florida Running Club, where I have competed races such as the Tallahassee Half Marathon.
 
 
 ## service
